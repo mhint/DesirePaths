@@ -1,3 +1,3 @@
 # List of biomes to generate gravel from trampled grass instead of coarse dirt
 biomes-to-generate-gravel:
-  - "PLAINS"
+#  - "PLAINS"
