@@ -1,0 +1,6 @@
+main: com.adenark.desirepaths.DesirePaths
+name: DesirePaths
+version: '1.0.0'
+api-version: 1.19
+description: This plugin will gradually convert grass blocks into dirt as players walk across them.
+authors: [adenark, goodkinghenry]
