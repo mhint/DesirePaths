@@ -18,7 +18,7 @@ public class DesirePaths extends JavaPlugin {
 
     public static List<String> BIOMES_TO_GENERATE_GRAVEL;
 
-    private void loadConfiguredVariables () {
+    private void loadConfiguredVariables() {
         BIOMES_TO_GENERATE_GRAVEL = (List<String>) getConfig().getList("biomes-to-generate-gravel");
     }
 
