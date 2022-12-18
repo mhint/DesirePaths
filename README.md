@@ -1,4 +1,4 @@
-<h1> DesirePaths - Paper plugin (1.19) </h1>
+<h1>DesirePaths Paper Plugin (1.19)</h1>
 
 ## Description
 A Paper plugin that adds a grass trampling mechanism, gradually converting grass into dirt as players move across them.
