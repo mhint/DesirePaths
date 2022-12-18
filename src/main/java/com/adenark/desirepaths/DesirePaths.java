@@ -12,7 +12,7 @@ public class DesirePaths extends JavaPlugin {
         if (!(plugin instanceof DesirePaths)) {
             throw new RuntimeException("'DesirePaths' not found.");
         } else {
-            return (DesirePaths)plugin;
+            return (DesirePaths) plugin;
         }
     }
 
